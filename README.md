@@ -1,5 +1,7 @@
 # Lohono Copilot
 
+**Live demo:** https://lohono-copilot.vercel.app
+
 Prototype for the Lohono AI product case: an after-conversation assistant that reads a sales or support transcript and returns a structured record (intent, lead temperature, urgency, trip details, objections, next step, escalation) for the agent to confirm and the manager to triage.
 
 - `lib/prompt.ts`: system prompt and user message
